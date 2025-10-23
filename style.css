@@ -28,7 +28,7 @@ footer {
   text-align: center;
   font-size: small;
   background-color: rgb(115, 98, 166);
-  width: 100%;
+  width: 750px;
   padding: 2px;
   color: aliceblue;
 }
@@ -46,6 +46,7 @@ a {
   flex-direction: column;
   align-items: center;
   background-color: rgb(175, 114, 181);
+  width: 750px;
 }
 .portraitg {
   display: flex;
@@ -55,4 +56,5 @@ a {
   background-color: rgb(189, 187, 252);
   padding: 1rem;
   margin: 1rem;
+  width: 750px;
 }
